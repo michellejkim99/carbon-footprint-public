@@ -1,6 +1,6 @@
 # carbon-footprint
-Project created for ER131 at UC Berkeley.
+Project created for ERG131 at UC Berkeley and finalized Spring 2021.
 
-In collaboration with Jun Kang, Michelle Kim, Henry Hao.
+In collaboration with Henry Hao, Jun Kang, Michelle Kim, and Vincent Lao.
 
 See FinalProject.ipynb for the abstract, objective, and other details.
